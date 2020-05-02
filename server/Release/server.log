@@ -1,0 +1,8 @@
+﻿  main.cpp
+  amxplugin.cpp
+  bitstream.cpp
+     Создается библиотека C:\Users\Admin\Desktop\sampvoice-2.1\bin\sampvoice.lib и объект C:\Users\Admin\Desktop\sampvoice-2.1\bin\sampvoice.exp
+  Создание кода
+  All 1335 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  server.vcxproj -> C:\Users\Admin\Desktop\sampvoice-2.1\bin\sampvoice.dll
